@@ -1,4 +1,4 @@
-# Machine-Learning-Practice
+# Machine Learning Practice
 This practice is a submission for a beginner machine learning course. On submitting this practice there are several requirements that needed to be in the machine learning such as:
  - The dataset used must be the following dataset: rockpaperscissors , or use this link in the wget command: https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip .
  - The dataset should be divided into a train set and a validation set .
