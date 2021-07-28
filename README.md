@@ -9,4 +9,5 @@ This practice is a submission for a beginner machine learning course. On submitt
  - Model training does not exceed 30 minutes .
  - The program is done on Google Collaboratory .
  - The accuracy of the model is at least 85% .
+ 
 All of the requirements needed to be fullfilled as per reviewer request.
